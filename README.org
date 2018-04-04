@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+
+[[https://www.gnu.org/software/emacs/][file:https://img.shields.io/badge/Built%20With-Emacs-FFC0CB.svg]]
+[[https://gitee.com/re-mx/mxem][file:https://img.shields.io/badge/Built%20With-mxem-FFC0CB.svg]]
+
+* My Frequently-used Apps list
+  
++ This is my frequently used software list
++ Tested with Arch Linux
++ This list is rolled up
++ Please *DO NOT* copy this document, but you can reprint the link
+  
+Click [[https://github.com/re-mx/archApps/blob/master/SOFTWARE.org][HERE]] to read it
+
+
+-MX Reimu
