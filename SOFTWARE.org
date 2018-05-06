@@ -185,7 +185,7 @@ pylama
 yapf
   #+END_SRC
   
-* Node.js Packages
+* NPM Packages
   
   #+BEGIN_SRC
 tern
