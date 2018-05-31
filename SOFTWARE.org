@@ -9,23 +9,23 @@ Update: 2018-04-04
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
 * OS Installation
-  
+
   #+BEGIN_SRC
 base
 base-devel
   #+END_SRC
-  
+
 * Shell
-  
+
   #+BEGIN_SRC
 zsh
 zsh-completions
 grml-zsh-config
 zsh-lovers
   #+END_SRC
-  
+
 * Development Tools
-  
+
   #+BEGIN_SRC
 gcc
 gdb
@@ -41,9 +41,9 @@ tidy
 aspell
 aspell-en
   #+END_SRC
-  
+
 * Programming Language
-  
+
   #+BEGIN_SRC
 python
 python2
@@ -58,24 +58,24 @@ ruby
 nodejs
 npm
   #+END_SRC
-  
+
 * Network Tools
-  
+
   #+BEGIN_SRC
 libcss
 libxss
 openssl
 openssh
   #+END_SRC
-  
+
 * Audio
-  
+
   #+BEGIN_SRC
 pulseaudio
   #+END_SRC
-  
+
 * Graphics
-  
+
   #+BEGIN_SRC
 xorg-server
 xorg-server-xwayland
@@ -90,9 +90,9 @@ webkit2gtk
 qt5-base
 qt5-3d
   #+END_SRC
-  
+
 * Fonts
-  
+
   #+BEGIN_SRC
 adobe-source-code-pro-fonts
 adobe-source-han-sans-cn-fonts
@@ -103,9 +103,9 @@ wqy-bitmapfont
 wqy-microhei
 wqy-zenhei
   #+END_SRC
-  
+
 * Codec
-  
+
   #+BEGIN_SRC
 gst-plugins-bad
 gst-plugins-base
@@ -118,16 +118,16 @@ libraw
 openexr
 openjpeg2
   #+END_SRC
-  
+
 * VirtualBox Modules (OPTIONAL)
-  
+
   #+BEGIN_SRC
 virtualbox-guest-modules-arch
 virtualbox-guest-utils
   #+END_SRC
-  
+
 * Utils
-  
+
   #+BEGIN_SRC
 bc
 gvfs
@@ -138,45 +138,45 @@ xclip
 zip
 unzip
   #+END_SRC
-  
+
 * Editor
-  
+
   #+BEGIN_SRC
 emacs
 atom
 visual-studio-code (AUR)
   #+END_SRC
-  
+
 * Browser
-  
+
   #+BEGIN_SRC
 firefox
 firefox-i18n-zh-cn
 firefox-i18n-zh-tw
   #+END_SRC
-  
+
 * WM & DM
-  
+
   #+BEGIN_SRC
 awesome
 lightdm
 lightdm-gtk-greeter
   #+END_SRC
-  
+
 * Terminal
-  
+
   #+BEGIN_SRC
 rxvt-unicode
   #+END_SRC
-  
+
 * Themes
-  
+
   #+BEGIN_SRC
 gnome-themes-extra
   #+END_SRC
-  
+
 * Python Packages
-  
+
   #+BEGIN_SRC
 jedi
 flake8
@@ -184,18 +184,18 @@ autopep8
 pylama
 yapf
   #+END_SRC
-  
+
 * NPM Packages
-  
+
   #+BEGIN_SRC
 tern
 eslint
 tslint
 typescript
   #+END_SRC
-  
+
 * Others
-  
+
   #+BEGIN_SRC
 archlinux-wallpaper
 gimp
