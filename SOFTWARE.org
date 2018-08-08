@@ -4,7 +4,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-04-04
+Update: 2018-08-08
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -31,6 +31,7 @@ gcc
 gdb
 autoconf
 automake
+make
 clang
 llvm
 cmake
@@ -38,8 +39,6 @@ linux-headers
 dkms
 git
 tidy
-aspell
-aspell-en
   #+END_SRC
 
 * Programming Language
@@ -78,10 +77,10 @@ pulseaudio
 
   #+BEGIN_SRC
 xorg-server
-xorg-server-xwayland
 xorg-xinit
 xorg-apps
 wayland
+xorg-server-xwayland
 python-xdg
 python2-xdg
 gtk2
@@ -129,6 +128,8 @@ virtualbox-guest-utils
 * Utils
 
   #+BEGIN_SRC
+aspell
+aspell-en
 bc
 gvfs
 gvfs-nfs
