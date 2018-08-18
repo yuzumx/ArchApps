@@ -1,10 +1,8 @@
-# -*- coding: utf-8 -*-
-
 #+TITLE: Software List
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-08-08
+Update: 2018-08-18
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -24,19 +22,41 @@ grml-zsh-config
 zsh-lovers
   #+END_SRC
 
-* Development Tools
+* Utils
+
+  #+BEGIN_SRC
+aspell
+aspell-en
+bc
+libcss
+ntp
+openssh
+openssl
+the_silver_searcher
+udisks2
+xclip
+zip
+unzip
+  #+END_SRC
+
+* Build Tools
 
   #+BEGIN_SRC
 gcc
-gdb
 autoconf
 automake
 make
 clang
 llvm
 cmake
+  #+END_SRC
+
+* Development Tools
+
+  #+BEGIN_SRC
 linux-headers
 dkms
+gdb
 git
 tidy
   #+END_SRC
@@ -44,27 +64,21 @@ tidy
 * Programming Language
 
   #+BEGIN_SRC
+lua
+nodejs
+perl
+php
 python
 python2
-ipython
-ipython2
-python-pip
-python2-pip
-php
-perl
-lua
 ruby
-nodejs
-npm
   #+END_SRC
 
-* Network Tools
+* Package Manager
 
   #+BEGIN_SRC
-libcss
-libxss
-openssl
-openssh
+python-pip
+python2-pip
+npm
   #+END_SRC
 
 * Audio
@@ -79,6 +93,7 @@ pulseaudio
 xorg-server
 xorg-xinit
 xorg-apps
+libxss
 wayland
 xorg-server-xwayland
 python-xdg
@@ -125,21 +140,6 @@ virtualbox-guest-modules-arch
 virtualbox-guest-utils
   #+END_SRC
 
-* Utils
-
-  #+BEGIN_SRC
-aspell
-aspell-en
-bc
-gvfs
-gvfs-nfs
-ntp
-the_silver_searcher
-xclip
-zip
-unzip
-  #+END_SRC
-
 * Editor
 
   #+BEGIN_SRC
@@ -182,8 +182,10 @@ gnome-themes-extra
 jedi
 flake8
 autopep8
-pylama
 yapf
+ipython
+ipython2
+pylama
   #+END_SRC
 
 * NPM Packages
@@ -195,13 +197,15 @@ tslint
 typescript
   #+END_SRC
 
-* Others
+* Unclassified
 
   #+BEGIN_SRC
 archlinux-wallpaper
 gimp
 gnome-font-viewer
 gtk-engines
+gvfs
+gvfs-nfs
 libreoffice
 rhythmbox
 screenfetch
