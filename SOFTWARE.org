@@ -22,23 +22,6 @@ grml-zsh-config
 zsh-lovers
   #+END_SRC
 
-* Utils
-
-  #+BEGIN_SRC
-aspell
-aspell-en
-bc
-libcss
-ntp
-openssh
-openssl
-the_silver_searcher
-udisks2
-xclip
-zip
-unzip
-  #+END_SRC
-
 * Build Tools
 
   #+BEGIN_SRC
@@ -79,6 +62,14 @@ ruby
 python-pip
 python2-pip
 npm
+  #+END_SRC
+
+* Network Tools
+  #+BEGIN_SRC
+libcss
+openssh
+openssl
+gnutls
   #+END_SRC
 
 * Audio
@@ -174,6 +165,20 @@ rxvt-unicode
 
   #+BEGIN_SRC
 gnome-themes-extra
+  #+END_SRC
+
+* Utils
+
+  #+BEGIN_SRC
+aspell
+aspell-en
+bc
+ntp
+the_silver_searcher
+udisks2
+xclip
+zip
+unzip
   #+END_SRC
 
 * Python Packages
