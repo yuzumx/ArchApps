@@ -147,12 +147,18 @@ firefox-i18n-zh-cn
 firefox-i18n-zh-tw
   #+END_SRC
 
-* WM & DM
+* Display Manager
+
+  #+BEGIN_SRC
+lightdm
+lightdm-gtk-greeter
+  #+END_SRC
+
+* WM & DE
 
   #+BEGIN_SRC
 awesome
-lightdm
-lightdm-gtk-greeter
+gnome
   #+END_SRC
 
 * Terminal
