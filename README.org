@@ -8,6 +8,8 @@
   + This is my frequently used software list
   + Tested with Arch Linux
   + This list is rolled up
+  + *App* means that if you install Apps in the order of this article, then this app is a dependency of the previously installed App. No need to install again.
+  + _App_ mens this app is in AUR (Arch User Repository).
   + Please *DO NOT* copy this document, but you can reprint the link
 
   Click [[https://github.com/re-mx/ArchApps/blob/master/SOFTWARE.org][HERE]] to read it

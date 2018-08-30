@@ -2,224 +2,137 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-08-18
+Update: 2018-08-30
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
 * OS Installation
-
-  #+BEGIN_SRC
-base
-base-devel
-  #+END_SRC
-
+  + base
+  + base-devel
+  + intel-ucode
 * Shell
-
-  #+BEGIN_SRC
-zsh
-zsh-completions
-grml-zsh-config
-zsh-lovers
-  #+END_SRC
-
+  + zsh
+  + zsh-completions
 * Build Tools
-
-  #+BEGIN_SRC
-gcc
-autoconf
-automake
-make
-clang
-llvm
-cmake
-  #+END_SRC
-
-* Development Tools
-
-  #+BEGIN_SRC
-linux-headers
-dkms
-gdb
-git
-tidy
-  #+END_SRC
-
+  + *gcc*
+  + *autoconf*
+  + *automake*
+  + *make*
+  + clang
+  + llvm
+  + cmake
+  + linux-headers
+  + dkms
 * Programming Language
-
-  #+BEGIN_SRC
-lua
-nodejs
-perl
-php
-python
-python2
-ruby
-  #+END_SRC
-
+  + lua
+  + nodejs
+  + *perl*
+  + php
+  + python
+  + python2
+  + ruby
 * Package Manager
-
-  #+BEGIN_SRC
-python-pip
-python2-pip
-npm
-  #+END_SRC
-
+  + python-pip
+  + python2-pip
+  + npm
+* Development Tools
+  + gdb
+  + git
+  + tidy
 * Network Tools
-  #+BEGIN_SRC
-libcss
-openssh
-openssl
-gnutls
-  #+END_SRC
-
+  + libcss
+  + openssh
+  + *openssl*
+  + *gnutls*
 * Audio
-
-  #+BEGIN_SRC
-pulseaudio
-  #+END_SRC
-
+  + pulseaudio
 * Graphics
-
-  #+BEGIN_SRC
-xorg-server
-xorg-xinit
-xorg-apps
-libxss
-wayland
-xorg-server-xwayland
-python-xdg
-python2-xdg
-gtk2
-gtk3
-webkit2gtk
-qt5-base
-qt5-3d
-  #+END_SRC
-
+  + xorg-server
+  + xorg-xinit
+  + xorg-apps
+  + libxss
+  + wayland
+  + xorg-server-xwayland
+  + python-xdg
+  + python2-xdg
+  + gtk2
+  + gtk3
+  + webkit2gtk
+  + qt5-base
+  + qt5-3d
 * Fonts
-
-  #+BEGIN_SRC
-adobe-source-code-pro-fonts
-adobe-source-han-sans-cn-fonts
-ttf-dejavu
-ttf-arphic-ukai
-ttf-arphic-uming
-wqy-bitmapfont
-wqy-microhei
-wqy-zenhei
-  #+END_SRC
-
+  + adobe-source-code-pro-fonts
+  + adobe-source-han-sans-cn-fonts
+  + ttf-dejavu
+  + ttf-arphic-ukai
+  + ttf-arphic-uming
+  + wqy-bitmapfont
+  + wqy-microhei
+  + wqy-zenhei
 * Codec
-
-  #+BEGIN_SRC
-gst-plugins-bad
-gst-plugins-base
-gst-plugins-base-libs
-gst-plugins-espeak
-gst-plugins-good
-gst-plugins-ugly
-ffmpeg
-libraw
-openexr
-openjpeg2
-  #+END_SRC
-
+  + gst-plugins-bad
+  + gst-plugins-base
+  + gst-plugins-base-libs
+  + gst-plugins-espeak
+  + gst-plugins-good
+  + gst-plugins-ugly
+  + ffmpeg
+  + libraw
+  + openexr
+  + openjpeg2
 * VirtualBox Modules (OPTIONAL)
-
-  #+BEGIN_SRC
-virtualbox-guest-modules-arch
-virtualbox-guest-utils
-  #+END_SRC
-
+  + virtualbox-guest-modules-arch
+  + virtualbox-guest-utils
 * Editor
-
-  #+BEGIN_SRC
-emacs
-atom
-visual-studio-code (AUR)
-  #+END_SRC
-
+  + emacs
+  + atom
+  + _visual-studio-code_
 * Browser
-
-  #+BEGIN_SRC
-firefox
-firefox-i18n-zh-cn
-firefox-i18n-zh-tw
-  #+END_SRC
-
+  + firefox
+  + firefox-i18n-zh-cn
+  + firefox-i18n-zh-tw
 * Display Manager
-
-  #+BEGIN_SRC
-lightdm
-lightdm-gtk-greeter
-  #+END_SRC
-
+  + lightdm
+  + lightdm-gtk-greeter
 * WM & DE
-
-  #+BEGIN_SRC
-awesome
-gnome
-  #+END_SRC
-
+  + awesome
+  + gnome
 * Terminal
-
-  #+BEGIN_SRC
-rxvt-unicode
-  #+END_SRC
-
+  + rxvt-unicode
 * Themes
-
-  #+BEGIN_SRC
-gnome-themes-extra
-  #+END_SRC
-
+  + gnome-themes-extra
 * Utils
-
-  #+BEGIN_SRC
-aspell
-aspell-en
-bc
-ntp
-the_silver_searcher
-udisks2
-xclip
-zip
-unzip
-  #+END_SRC
-
+  + aspell
+  + aspell-en
+  + bc
+  + ntp
+  + the_silver_searcher
+  + udisks2
+  + xclip
+  + zip
+  + unzip
 * Python Packages
-
-  #+BEGIN_SRC
-jedi
-flake8
-autopep8
-yapf
-ipython
-ipython2
-pylama
-  #+END_SRC
-
+  + jedi
+  + flake8
+  + autopep8
+  + yapf
+  + ipython
+  + ipython2
+  + pylama
 * NPM Packages
-
-  #+BEGIN_SRC
-tern
-eslint
-tslint
-typescript
-  #+END_SRC
-
+  + tern
+  + eslint
+  + tslint
+  + typescript
 * Unclassified
-
-  #+BEGIN_SRC
-archlinux-wallpaper
-gimp
-gnome-font-viewer
-gtk-engines
-gvfs
-gvfs-nfs
-libreoffice
-rhythmbox
-screenfetch
-ttf-font-awesome
-vicious
-  #+END_SRC
+  + archlinux-wallpaper
+  + gimp
+  + gnome-font-viewer
+  + gtk-engines
+  + gvfs
+  + gvfs-nfs
+  + libreoffice
+  + rhythmbox
+  + screenfetch
+  + ttf-font-awesome
+  + vicious
