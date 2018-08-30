@@ -86,7 +86,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Editor
   + emacs
   + atom
-  + _visual-studio-code_
+  + /visual-studio-code/
 * Browser
   + firefox
   + firefox-i18n-zh-cn
