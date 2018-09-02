@@ -2,7 +2,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-08-30
+Update: 2018-09-02
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -107,6 +107,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Display Manager
   + lightdm
   + lightdm-gtk-greeter
+  + +lightdm-gtk-greeter-settings+
 
 * WM & DE
   + awesome
