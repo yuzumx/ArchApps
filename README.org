@@ -8,7 +8,7 @@
   + This is my frequently used software list
   + Tested with Arch Linux
   + This list is rolled up
-  + *App* means that if you install Apps in the order of this article, then this app is a dependency of the previously installed App. No need to install again.
+  + *App* means that if you install Apps in the order of this article, then this app is a dependency of the previously installed apps. No need to install again.
   + /App/ mens this app is in AUR ([[https://aur.archlinux.org][Arch User Repository]]).
   + +App+ means that this app should not be installed during basic installation.
   + Please *DO NOT* copy this document, but you can reprint the link
