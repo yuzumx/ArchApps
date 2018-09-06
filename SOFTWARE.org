@@ -126,7 +126,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + bc
   + ntp
   + ripgrep
-  + the_silver_searcher
+  + +the_silver_searcher+
   + udisks2
   + xclip
   + zip
