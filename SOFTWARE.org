@@ -2,7 +2,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-09-04
+Update: 2018-09-06
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -125,6 +125,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + aspell-en
   + bc
   + ntp
+  + ripgrep
   + the_silver_searcher
   + udisks2
   + xclip
