@@ -2,7 +2,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-09-06
+Update: 2018-09-07
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -100,10 +100,11 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + atom
   + /visual-studio-code/
 
-* Browser
-  + firefox
-  + firefox-i18n-zh-cn
-  + firefox-i18n-zh-tw
+* Web Browser
+  + chromium
+  + +firefox+
+  + +firefox-i18n-zh-cn+
+  + +firefox-i18n-zh-tw+
 
 * Display Manager
   + lightdm
