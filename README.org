@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-[[https://www.gnu.org/software/emacs/][file:https://img.shields.io/badge/Built%20With-Emacs-FFB6C1.svg]]
-[[https://gitee.com/re-mx/mxem][file:https://img.shields.io/badge/Built%20With-mxem-FFB6C1.svg]]
+[[https://www.gnu.org/software/emacs/][file:https://img.shields.io/badge/Built%20With-Emacs-F4A7B9.svg]]
+[[https://gitee.com/re-mx/mxem][file:https://img.shields.io/badge/Built%20With-mxem-F4A7B9.svg]]
 
 * My Frequently-used Apps list
 
