@@ -16,10 +16,10 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + zsh-completions
 
 * Build Tools
-  + *gcc*
-  + *autoconf*
-  + *automake*
-  + *make*
+  + gcc Ⓘ
+  + autoconf Ⓘ
+  + automake Ⓘ
+  + make Ⓘ
   + clang
   + llvm
   + cmake
@@ -29,7 +29,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Programming Language
   + lua
   + nodejs
-  + *perl*
+  + perl Ⓘ
   + php
   + python
   + python2
@@ -43,13 +43,13 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Development Tools
   + gdb
   + git
-  + +tidy+
+  + tidy Ⓝ
 
 * Network Tools
   + libcss
   + openssh
-  + *openssl*
-  + *gnutls*
+  + openssl Ⓘ
+  + gnutls Ⓘ
 
 * Audio
   + pulseaudio
@@ -59,7 +59,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + xorg-xinit
   + xorg-apps
   + libxss
-  + *wayland*
+  + wayland Ⓘ
   + xorg-server-xwayland
   + python-xdg
   + python2-xdg
@@ -67,13 +67,13 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + gtk3
   + webkit2gtk
   + qt5-base
-  + +qt5-3d+
+  + qt5-3d Ⓝ
 
 * Fonts
   + adobe-source-code-pro-fonts
   + adobe-source-han-sans-cn-fonts
   + ttf-dejavu
-  + ttf-inconsolata
+  + ttf-inconsolata Ⓝ
   + ttf-arphic-ukai
   + ttf-arphic-uming
   + wqy-bitmapfont
@@ -99,22 +99,22 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Display Manager
   + lightdm
   + lightdm-gtk-greeter
-  + +lightdm-gtk-greeter-settings+
+  + lightdm-gtk-greeter-settings Ⓝ
 
 * Window Manager
   + awesome
-  + +gnome+
+  + gnome Ⓝ
 
 * Editor
   + emacs
   + atom
-  + /visual-studio-code/
+  + visual-studio-code Ⓤ
 
 * Web Browser
   + firefox
   + firefox-i18n-zh-cn
   + firefox-i18n-zh-tw
-  + +chromium+
+  + chromium Ⓝ
 
 * Terminal
   + rxvt-unicode
@@ -128,7 +128,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + bc
   + ntp
   + ripgrep
-  + +the_silver_searcher+
+  + the_silver_searcher Ⓝ
   + udisks2
   + xclip
   + zip
