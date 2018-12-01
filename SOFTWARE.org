@@ -43,7 +43,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Development Tools
   + gdb
   + git
-  + tidy
+  + +tidy+
 
 * Network Tools
   + libcss
