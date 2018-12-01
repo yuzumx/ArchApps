@@ -107,7 +107,6 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
 * Editor
   + emacs
-  + atom
   + visual-studio-code Ⓤ
 
 * Web Browser
