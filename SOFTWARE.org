@@ -2,7 +2,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-09-07
+Update: 2018-12-01
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -96,6 +96,15 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + virtualbox-guest-modules-arch
   + virtualbox-guest-utils
 
+* Display Manager
+  + lightdm
+  + lightdm-gtk-greeter
+  + +lightdm-gtk-greeter-settings+
+
+* Window Manager
+  + awesome
+  + +gnome+
+
 * Editor
   + emacs
   + atom
@@ -106,15 +115,6 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + firefox-i18n-zh-cn
   + firefox-i18n-zh-tw
   + +chromium+
-
-* Display Manager
-  + lightdm
-  + lightdm-gtk-greeter
-  + +lightdm-gtk-greeter-settings+
-
-* WM & DE
-  + awesome
-  + gnome
 
 * Terminal
   + rxvt-unicode
