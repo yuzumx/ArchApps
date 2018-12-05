@@ -2,7 +2,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-12-01
+Update: 2018-12-05
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -65,7 +65,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + python2-xdg
   + gtk2
   + gtk3
-  + webkit2gtk
+  + webkit2gtk Ⓝ
   + qt5-base
   + qt5-3d Ⓝ
 
