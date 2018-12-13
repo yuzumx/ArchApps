@@ -104,6 +104,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + faac
   + faad2
   + flac Ⓘ
+  + gst-libav Ⓝ
   + lame Ⓘ
   + libcddb
   + libcdio
