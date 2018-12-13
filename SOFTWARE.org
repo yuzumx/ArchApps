@@ -33,7 +33,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + php
   + python
   + python2
-  + ruby Ⓝ
+  + ruby ⓃⒶ
 
 * Package Manager
   + python-pip
@@ -43,7 +43,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Development Tools
   + gdb
   + git
-  + tidy Ⓝ
+  + tidy ⓃⒶ
 
 * Network Tools
   + libcss
@@ -53,6 +53,8 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
 * Sound
   + pulseaudio
+  + portaudio
+  + openal ⓃⒶ
 
 * Graphics
   + xorg-server
@@ -105,21 +107,19 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + lame Ⓘ
   + libcddb
   + libcdio
-  + libdca
+  + libdca ⓃⒶ
   + libdv Ⓝ
-  + libdvdcss Ⓝ
-  + libdvdread Ⓝ
+  + libdvdcss
+  + libdvdread
   + libgme Ⓝ
   + libmad
   + libmpeg2 Ⓝ
   + libraw
   + libsrtp Ⓝ
   + libvisual Ⓝ
-  + openal
   + openexr
   + openjpeg2 Ⓘ
-  + portaudio
-  + sbc
+  + sbc ⓃⒶ
   + sdl
   + taglib
   + wavpack
@@ -181,7 +181,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + tslint
   + typescript
 
-* Unclassified
+* Unclassified Ⓝ
   + archlinux-wallpaper
   + gimp
   + espeak
