@@ -97,19 +97,35 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Codec
   + a52dec Ⓝ
   + aom Ⓘ
+  + cdparanoia Ⓝ
   + celt
   + faac
   + faad2
   + flac Ⓘ
   + lame Ⓘ
+  + libcddb
+  + libcdio
   + libdca
+  + libdv Ⓝ
+  + libdvdcss Ⓝ
+  + libdvdread Ⓝ
+  + libgme Ⓝ
   + libmad
   + libmpeg2 Ⓝ
   + libraw
+  + libsrtp Ⓝ
+  + libvisual Ⓝ
+  + openal
   + openexr
   + openjpeg2 Ⓘ
+  + portaudio
+  + sbc
+  + sdl
+  + taglib
+  + wavpack
   + x264 Ⓘ
   + x265 Ⓘ
+  + zvbi Ⓝ
 
 * Display Manager
   + lightdm
@@ -140,8 +156,10 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + aspell
   + aspell-en
   + bc
+  + neon
   + ntp
   + ripgrep
+  + rtmpdump Ⓝ
   + the_silver_searcher Ⓝ
   + udisks2
   + xclip
@@ -166,6 +184,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Unclassified
   + archlinux-wallpaper
   + gimp
+  + espeak
   + gnome-font-viewer
   + gtk-engines
   + gvfs
