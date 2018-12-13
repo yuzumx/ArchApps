@@ -2,7 +2,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-12-05
+Update: 2018-12-13
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -33,7 +33,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + php
   + python
   + python2
-  + ruby
+  + ruby Ⓝ
 
 * Package Manager
   + python-pip
@@ -51,7 +51,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + openssl Ⓘ
   + gnutls Ⓘ
 
-* Audio
+* Sound
   + pulseaudio
 
 * Graphics
@@ -69,32 +69,47 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + qt5-base
   + qt5-3d Ⓝ
 
+* VirtualBox Modules
+  + virtualbox-guest-modules-arch
+  + virtualbox-guest-utils
+
 * Fonts
-  + adobe-source-code-pro-fonts
-  + adobe-source-han-sans-cn-fonts
+  + adobe-source-code-pro-fonts Ⓝ
+  + adobe-source-han-sans-cn-fonts Ⓝ
   + ttf-dejavu
   + ttf-inconsolata Ⓝ
   + ttf-arphic-ukai
   + ttf-arphic-uming
-  + wqy-bitmapfont
+  + wqy-bitmapfont Ⓝ
   + wqy-microhei
   + wqy-zenhei
 
-* Codec
-  + gst-plugins-bad
-  + gst-plugins-base
-  + gst-plugins-base-libs
-  + gst-plugins-espeak
-  + gst-plugins-good
-  + gst-plugins-ugly
+* Media Backend
   + ffmpeg
+  + gst-plugins-bad Ⓝ
+  + gst-plugins-base Ⓝ
+  + gst-plugins-base-libs Ⓝ
+  + gst-plugins-espeak Ⓝ
+  + gst-plugins-good Ⓝ
+  + gst-plugins-ugly Ⓝ
+  + gstreamer Ⓝ
+
+* Codec
+  + a52dec Ⓝ
+  + aom Ⓘ
+  + celt
+  + faac
+  + faad2
+  + flac Ⓘ
+  + lame Ⓘ
+  + libdca
+  + libmad
+  + libmpeg2 Ⓝ
   + libraw
   + openexr
-  + openjpeg2
-
-* VirtualBox Modules (OPTIONAL)
-  + virtualbox-guest-modules-arch
-  + virtualbox-guest-utils
+  + openjpeg2 Ⓘ
+  + x264 Ⓘ
+  + x265 Ⓘ
 
 * Display Manager
   + lightdm
