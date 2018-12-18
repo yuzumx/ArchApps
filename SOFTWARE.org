@@ -2,7 +2,7 @@
 
 Author: [[https://re-mx.github.io][MX Reimu]]
 
-Update: 2018-12-18
+Update: 2018-12-13
 
 License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 
@@ -16,10 +16,10 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + zsh-completions
 
 * Build Tools
-  + gcc ⓘ
-  + autoconf ⓘ
-  + automake ⓘ
-  + make ⓘ
+  + gcc Ⓘ
+  + autoconf Ⓘ
+  + automake Ⓘ
+  + make Ⓘ
   + clang
   + llvm
   + cmake
@@ -29,11 +29,11 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Programming Language
   + lua
   + nodejs
-  + perl ⓘ
+  + perl Ⓘ
   + php
   + python
   + python2
-  + ruby ⓝⓐ
+  + ruby ⓃⒶ
 
 * Package Manager
   + python-pip
@@ -43,109 +43,109 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
 * Development Tools
   + gdb
   + git
-  + tidy ⓝⓐ
+  + tidy ⓃⒶ
 
 * Network Tools
   + libcss
   + openssh
-  + openssl ⓘ
-  + gnutls ⓘ
+  + openssl Ⓘ
+  + gnutls Ⓘ
 
 * Sound
   + pulseaudio
   + portaudio
-  + openal ⓝⓐ
+  + openal ⓃⒶ
 
 * Graphics
   + xorg-server
   + xorg-xinit
   + xorg-apps
   + libxss
-  + wayland ⓘ
+  + wayland Ⓘ
   + xorg-server-xwayland
   + python-xdg
   + python2-xdg
   + gtk2
   + gtk3
-  + webkit2gtk ⓝ
+  + webkit2gtk Ⓝ
   + qt5-base
-  + qt5-3d ⓝ
+  + qt5-3d Ⓝ
 
 * VirtualBox Modules
   + virtualbox-guest-modules-arch
   + virtualbox-guest-utils
 
 * Fonts
-  + adobe-source-code-pro-fonts ⓝ
-  + adobe-source-han-sans-cn-fonts ⓝ
+  + adobe-source-code-pro-fonts Ⓝ
+  + adobe-source-han-sans-cn-fonts Ⓝ
   + ttf-dejavu
-  + ttf-inconsolata ⓝ
+  + ttf-inconsolata Ⓝ
   + ttf-arphic-ukai
   + ttf-arphic-uming
-  + wqy-bitmapfont ⓝ
+  + wqy-bitmapfont Ⓝ
   + wqy-microhei
   + wqy-zenhei
 
 * Media Backend
   + ffmpeg
-  + gst-plugins-bad ⓝ
-  + gst-plugins-base ⓝ
-  + gst-plugins-base-libs ⓝ
-  + gst-plugins-espeak ⓝ
-  + gst-plugins-good ⓝ
-  + gst-plugins-ugly ⓝ
-  + gstreamer ⓝ
+  + gst-plugins-bad Ⓝ
+  + gst-plugins-base Ⓝ
+  + gst-plugins-base-libs Ⓝ
+  + gst-plugins-espeak Ⓝ
+  + gst-plugins-good Ⓝ
+  + gst-plugins-ugly Ⓝ
+  + gstreamer Ⓝ
 
 * Codec
-  + a52dec ⓝ
-  + aom ⓘ
-  + cdparanoia ⓝ
+  + a52dec Ⓝ
+  + aom Ⓘ
+  + cdparanoia Ⓝ
   + celt
   + faac
   + faad2
-  + flac ⓘ
-  + gst-libav ⓝ
-  + lame ⓘ
+  + flac Ⓘ
+  + gst-libav Ⓝ
+  + lame Ⓘ
   + libcddb
   + libcdio
-  + libdca ⓝⓐ
-  + libdv ⓝ
+  + libdca ⓃⒶ
+  + libdv Ⓝ
   + libdvdcss
   + libdvdread
-  + libgme ⓝ
+  + libgme Ⓝ
   + libmad
-  + libmpeg2 ⓝ
+  + libmpeg2 Ⓝ
   + libraw
-  + libsrtp ⓝ
-  + libvisual ⓝ
+  + libsrtp Ⓝ
+  + libvisual Ⓝ
   + openexr
-  + openjpeg2 ⓘ
-  + sbc ⓝⓐ
+  + openjpeg2 Ⓘ
+  + sbc ⓃⒶ
   + sdl
   + taglib
   + wavpack
-  + x264 ⓘ
-  + x265 ⓘ
-  + zvbi ⓝ
+  + x264 Ⓘ
+  + x265 Ⓘ
+  + zvbi Ⓝ
 
 * Display Manager
   + lightdm
   + lightdm-gtk-greeter
-  + lightdm-gtk-greeter-settings ⓝ
+  + lightdm-gtk-greeter-settings Ⓝ
 
 * Window Manager
   + awesome
-  + gnome ⓝ
+  + gnome Ⓝ
 
 * Editor
   + emacs
-  + visual-studio-code ⓤ
+  + visual-studio-code Ⓤ
 
 * Web Browser
   + firefox
   + firefox-i18n-zh-cn
   + firefox-i18n-zh-tw
-  + chromium ⓝ
+  + chromium Ⓝ
 
 * Terminal
   + rxvt-unicode
@@ -160,8 +160,8 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + neon
   + ntp
   + ripgrep
-  + rtmpdump ⓝ
-  + the_silver_searcher ⓝ
+  + rtmpdump Ⓝ
+  + the_silver_searcher Ⓝ
   + udisks2
   + xclip
   + zip
@@ -182,7 +182,7 @@ License: GNU GPLv3 https://gnu.org/licenses/gpl.html
   + tslint
   + typescript
 
-* Unclassified ⓝ
+* Unclassified Ⓝ
   + archlinux-wallpaper
   + gimp
   + espeak
