@@ -1,20 +1,14 @@
-# -*- coding: utf-8 -*-
-
 [[https://www.gnu.org/software/emacs/][https://img.shields.io/badge/built%20with-Emacs-f596aa.svg]]
 [[https://gitee.com/re-mx/mxem][https://img.shields.io/badge/built%20with-mxem-f596aa.svg]]
 
-* My Frequently-used Apps list
+* Lists of Arch Linux apps I frequently use
 
-  + This is my frequently used software list
-  + Tested with Arch Linux
-  + This list is rolled up
-  + Ⓐ -\- Recommended apps to install after the basic installation.
-  + Ⓘ -\- If you install Apps in the order of this list, then this app is a dependency of the previously installed apps. No need to install again.
-  + Ⓝ -\- DO NOT install this app in a basic installation.
-  + Ⓤ -\- This app is in AUR ([[https://aur.archlinux.org][Arch User Repository]]).
-  + Please *DO NOT* copy this document, but you can reprint the link
+  These are some collections of Arch Linux apps that I frequently use. All entries are package names for Arch Linux.
 
-  Click [[https://github.com/re-mx/ArchApps/blob/master/SOFTWARE.org][HERE]] to read it
+  + Click [[https://github.com/re-mx/ArchApps/blob/master/ArchApps.org][HERE]] to read the list of apps.
 
+  + Click [[https://github.com/re-mx/ArchApps/blob/master/OS_INSTALLATION.org][HERE]] to read the list of packages for installing the OS.
+
+  All articles in this repo are licensed under [[http://creativecommons.org/licenses/by-nc-sa/4.0/][CC BY-NC-SA 4.0]].
 
   -MX Reimu

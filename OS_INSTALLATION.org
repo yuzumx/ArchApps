@@ -1,0 +1,136 @@
+#+TITLE: List of apps for installing OS
+
+Author: [[https://re-mx.github.io][MX Reimu]]
+
+Update: 2019-01-25
+
+License: [[http://creativecommons.org/licenses/by-nc-sa/4.0/][https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png]]
+
+Note that the order of this list (from top to bottom) is the order of installation.
+Some dependencies may be missed if you don't install in this order.
+
+* OS Installation
+  + base
+  + base-devel
+  + intel-ucode
+
+* Shell
+  + zsh
+  + zsh-completions
+
+* Build Tools:
+  + clang
+  + llvm
+  + cmake
+  + linux-headers
+  + dkms
+
+* Programming Languages:
+  + lua
+  + nodejs
+  + php
+  + python
+  + python2
+
+* Package Manager:
+  + python-pip
+  + python2-pip
+  + npm
+
+* Development Tools:
+  + gdb
+  + git
+
+* Network Tools
+  + libcss
+  + openssh
+
+* Sound
+  + pulseaudio
+  + portaudio
+
+* Graphics
+  + xorg-server
+  + xorg-xinit
+  + xorg-apps
+  + libxss
+  + xorg-server-xwayland
+  + python-xdg
+  + python2-xdg
+  + gtk2
+  + gtk3
+  + qt5-base
+
+* VirtualBox Modules (Optional)
+  + virtualbox-guest-modules-arch
+  + virtualbox-guest-utils
+
+* Fonts
+  + ttf-dejavu
+  + ttf-arphic-ukai
+  + ttf-arphic-uming
+  + wqy-microhei
+  + wqy-zenhei
+
+* Multimedia
+  + ffmpeg
+  + celt
+  + faac
+  + faad2
+  + libcddb
+  + libcdio
+  + libdvdcss
+  + libdvdread
+  + libmad
+  + libraw
+  + openexr
+  + sdl
+  + taglib
+  + wavpack
+
+* Display Manager
+  + lightdm
+  + lightdm-gtk-greeter
+
+* Window Manager
+  + awesome
+
+* Editor
+  + emacs
+
+* Web Browser
+  + firefox
+  + firefox-i18n-zh-cn
+  + firefox-i18n-zh-tw
+
+* Terminal
+  + rxvt-unicode
+
+* Themes
+  + gnome-themes-extra
+
+* Utils
+  + aspell
+  + aspell-en
+  + bc
+  + neon
+  + ntp
+  + ripgrep
+  + udisks2
+  + xclip
+  + zip
+  + unzip
+
+* After OS Installation
+
+Please **DO NOT** install these apps if this installation is used as the base image of Virtualbox.
+
+  + ruby
+  + tidy
+  + openal
+  + adobe-source-code-pro-fonts
+  + adobe-source-han-sans-cn-fonts
+  + libdca
+  + sbc
+  + ipython
+  + ipython2
