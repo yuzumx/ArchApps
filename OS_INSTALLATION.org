@@ -123,7 +123,7 @@ Some dependencies may be missed if you don't install in this order.
 
 * After OS Installation
 
-Please *DO NOT* install these apps if this installation is used as the base image of Virtualbox.
+Please *DO NOT* install these apps if this installation is used as the base image of a VM.
 
   + ruby
   + tidy
