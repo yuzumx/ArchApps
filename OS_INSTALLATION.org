@@ -6,7 +6,7 @@ Update: 2019-01-26
 
 License: [[http://creativecommons.org/licenses/by-nc-sa/4.0/][https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png]]
 
-Note that the order of this list (from top to bottom) is the order of installation.
+*Note:* The order of this list (from top to bottom) is the order of installation.
 Some dependencies may be missed if you don't install in this order.
 
 * OS Installation
