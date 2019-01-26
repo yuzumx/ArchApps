@@ -7,9 +7,9 @@ Update: 2019-01-25
 License: [[http://creativecommons.org/licenses/by-nc-sa/4.0/][https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png]]
 
 Comment Symbol:
-+ Ⓡ -\- Highly recommended app
-+ Ⓛ -\- Very low usage app
-+ Ⓤ -\- This app is in AUR ([[https://aur.archlinux.org][Arch User Repository]]).
++ *App* -\- Highly recommended app
++ ~app~ -\- Very low usage app
++ /app/ -\- This app is in AUR ([[https://aur.archlinux.org][Arch User Repository]]).
 
 * Shell
   + zsh
@@ -67,57 +67,57 @@ Comment Symbol:
   + python2-xdg
   + gtk2
   + gtk3
-  + webkit2gtk Ⓛ
+  + ~webkit2gtk~
   + qt5-base
-  + qt5-3d Ⓛ
+  + ~qt5-3d~
 
 * VirtualBox Modules
   + virtualbox-guest-modules-arch
   + virtualbox-guest-utils
 
 * Fonts
-  + adobe-source-code-pro-fonts Ⓡ
-  + adobe-source-han-sans-cn-fonts Ⓡ
+  + *adobe-source-code-pro-fonts*
+  + *adobe-source-han-sans-cn-fonts*
   + ttf-dejavu
-  + ttf-inconsolata Ⓛ
+  + ~ttf-inconsolata~
   + ttf-arphic-ukai
   + ttf-arphic-uming
-  + wqy-bitmapfont Ⓛ
+  + ~wqy-bitmapfont~
   + wqy-microhei
   + wqy-zenhei
 
 * Media Backend
   + ffmpeg
-  + gst-plugins-bad Ⓛ
-  + gst-plugins-base Ⓛ
-  + gst-plugins-base-libs Ⓛ
-  + gst-plugins-espeak Ⓛ
-  + gst-plugins-good Ⓛ
-  + gst-plugins-ugly Ⓛ
-  + gstreamer Ⓛ
+  + ~gst-plugins-bad~
+  + ~gst-plugins-base~
+  + ~gst-plugins-base-libs~
+  + ~gst-plugins-espeak~
+  + ~gst-plugins-good~
+  + ~gst-plugins-ugly~
+  + ~gstreamer~
 
 * Codec
-  + a52dec Ⓛ
+  + ~a52dec~
   + aom
-  + cdparanoia Ⓛ
+  + ~cdparanoia~
   + celt
   + faac
   + faad2
   + flac
-  + gst-libav Ⓛ
+  + ~gst-libav~
   + lame
   + libcddb
   + libcdio
   + libdca
-  + libdv Ⓛ
+  + ~libdv~
   + libdvdcss
   + libdvdread
-  + libgme Ⓛ
+  + ~libgme~
   + libmad
-  + libmpeg2 Ⓛ
+  + ~libmpeg2~
   + libraw
-  + libsrtp Ⓛ
-  + libvisual Ⓛ
+  + ~libsrtp~
+  + ~libvisual~
   + openexr
   + openjpeg2
   + sbc
@@ -126,29 +126,29 @@ Comment Symbol:
   + wavpack
   + x264
   + x265
-  + zvbi Ⓛ
+  + ~zvbi~
 
 * Display Manager
   + lightdm
   + lightdm-gtk-greeter
-  + lightdm-gtk-greeter-settings Ⓛ
+  + ~lightdm-gtk-greeter-settings~
 
 * Window Manager
-  + awesome Ⓡ
-  + gnome Ⓛ
+  + *awesome*
+  + ~gnome~
 
 * Editor
-  + emacs Ⓡ
-  + visual-studio-code Ⓤ
+  + *emacs*
+  + /visual-studio-code/
 
 * Web Browser
   + firefox
   + firefox-i18n-zh-cn
   + firefox-i18n-zh-tw
-  + chromium Ⓛ
+  + ~chromium~
 
 * Terminal
-  + rxvt-unicode Ⓡ
+  + *rxvt-unicode*
 
 * Themes
   + gnome-themes-extra
@@ -159,9 +159,9 @@ Comment Symbol:
   + bc
   + neon
   + ntp
-  + ripgrep Ⓡ
-  + rtmpdump Ⓛ
-  + the_silver_searcher Ⓛ
+  + *ripgrep*
+  + ~rtmpdump~
+  + ~the_silver_searcher~
   + udisks2
   + xclip
   + zip
@@ -180,7 +180,7 @@ Comment Symbol:
   + tern
   + eslint
   + tslint
-  + typescript Ⓡ
+  + *typescript*
 
 * Unclassified
   + archlinux-wallpaper
