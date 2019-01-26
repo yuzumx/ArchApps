@@ -24,31 +24,33 @@ Some dependencies may be missed if you don't install in this order.
   + cmake
   + linux-headers
 
-* Programming Languages
+* Programming
+** Programming Languages
   + lua
   + nodejs
   + php
   + python
   + python2
 
-* Package Manager
+** Package Manager
   + python-pip
   + python2-pip
   + npm
 
-* Development Tools
+** Development Tools
   + gdb
   + git
 
-* Network Tools
+* Tools and Libs
+** Network Tools
   + libcss
   + openssh
 
-* Sound
+** Sound
   + pulseaudio
   + portaudio
 
-* Graphics
+** Graphics
   + xorg-server
   + xorg-xinit
   + xorg-apps
@@ -60,7 +62,7 @@ Some dependencies may be missed if you don't install in this order.
   + gtk3
   + qt5-base
 
-* VirtualBox Modules (Optional)
+** VirtualBox Modules (Optional)
   + virtualbox-guest-modules-arch
   + virtualbox-guest-utils
 
@@ -88,12 +90,19 @@ Some dependencies may be missed if you don't install in this order.
   + taglib
   + wavpack
 
-* Display Manager
+* Desktop Environment
+** Display Manager
   + lightdm
   + lightdm-gtk-greeter
 
-* Window Manager
+** Window Manager
   + awesome
+
+** Terminal
+  + rxvt-unicode
+
+** Themes
+  + gnome-themes-extra
 
 * Editor
   + emacs
@@ -102,12 +111,6 @@ Some dependencies may be missed if you don't install in this order.
   + firefox
   + firefox-i18n-zh-cn
   + firefox-i18n-zh-tw
-
-* Terminal
-  + rxvt-unicode
-
-* Themes
-  + gnome-themes-extra
 
 * Utils
   + aspell
