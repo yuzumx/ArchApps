@@ -18,26 +18,26 @@ Some dependencies may be missed if you don't install in this order.
   + zsh
   + zsh-completions
 
-* Build Tools:
+* Build Tools
   + clang
   + llvm
   + cmake
   + linux-headers
   + dkms
 
-* Programming Languages:
+* Programming Languages
   + lua
   + nodejs
   + php
   + python
   + python2
 
-* Package Manager:
+* Package Manager
   + python-pip
   + python2-pip
   + npm
 
-* Development Tools:
+* Development Tools
   + gdb
   + git
 
