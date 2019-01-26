@@ -23,7 +23,6 @@ Some dependencies may be missed if you don't install in this order.
   + llvm
   + cmake
   + linux-headers
-  + dkms
 
 * Programming Languages
   + lua
