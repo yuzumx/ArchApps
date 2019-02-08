@@ -41,7 +41,7 @@ Some dependencies may be missed if you don't install in this order.
   + gdb
   + git
 
-* Tools and Libs
+* Tools & Libs
 ** Network Tools
   + libcss
   + openssh
