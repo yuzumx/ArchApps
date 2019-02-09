@@ -12,7 +12,7 @@ Comment Symbol:
 + /app/ -\- This app is in AUR ([[https://aur.archlinux.org][Arch User Repository]]).
 
 * Table of Content
-  - [[#Shell][shell]]
+  - [[#Shell][Shell]]
   - [[#Build-Tools][Build Tools]]
   - [[#Programming-Language][Programming Language]]
   - [[#Package-Manager][Package Manager]]
