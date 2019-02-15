@@ -1,6 +1,6 @@
 #+TITLE: List of apps for installing Arch Linux
 
-Author: [[https://re-mx.github.io][MX Reimu]]
+Author: [[https://yurimx.github.io][Yuri MX]]
 
 Update: 2019-01-26
 

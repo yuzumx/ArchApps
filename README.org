@@ -1,13 +1,13 @@
 [[https://www.gnu.org/software/emacs/][https://img.shields.io/badge/built%20with-Emacs-f596aa.svg]]
-[[https://gitee.com/re-mx/mxem][https://img.shields.io/badge/built%20with-mxem-f596aa.svg]]
+[[https://gitee.com/yurimx/yurimacs][https://img.shields.io/badge/built%20with-yurimacs-f596aa.svg]]
 
 * Lists of Arch Linux apps I frequently use
 
   These are some collections of Arch Linux apps that I frequently use. All entries are package names for Arch Linux.
 
-  + Click [[https://github.com/re-mx/ArchApps/blob/master/ArchApps.org][HERE]] to read the list of apps.
+  + Click [[https://github.com/yurimx/ArchApps/blob/master/ArchApps.org][HERE]] to read the list of apps.
 
-  + Click [[https://github.com/re-mx/ArchApps/blob/master/OS_INSTALLATION.org][HERE]] to read the list of packages for installing the OS.
+  + Click [[https://github.com/yurimx/ArchApps/blob/master/OS_INSTALLATION.org][HERE]] to read the list of packages for installing the OS.
 
   All articles in this repo are licensed under [[http://creativecommons.org/licenses/by-nc-sa/4.0/][CC BY-NC-SA 4.0]].
 

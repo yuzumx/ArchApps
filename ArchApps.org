@@ -1,6 +1,6 @@
 #+TITLE: Arch Linux Apps I frequently use
 
-Author: [[https://re-mx.github.io][MX Reimu]]
+Author: [[https://yurimx.github.io][Yuri MX]]
 
 Update: 2019-01-25
 
